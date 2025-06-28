@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+     background-color: hsl(216, 12%, 8%);
+}
+
+.container {
+    background-color: hsl(213, 19%, 18%);
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+    margin-top: 18rem;
+    margin-left: 48rem;
+    padding: 1rem;
+    
+
+}
+
+.illustration img {
+    margin-left: 6rem;
+    margin-top: 1.5rem;
+
+}
+.card {
+    background-color: hsl(213, 19%, 25%);
+    color: hsl(25, 97%, 53%);
+    width: 200px;
+    height: 25px;
+    border-radius: 50px;
+    margin-left: 5rem;
+    margin-top: 1.5rem;
+
+}
+
+h3 {
+    font-family: "Overpass", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 0.2rem;
+}
+
+h1 {
+    color: hsl(0, 100%, 100%);
+    font-family: "Overpass", sans-serif;
+    font-weight: 700;
+    margin-top: 2.8rem;
+    margin-left: 6rem;
+}
+
+p {
+    color: hsl(217, 12%, 63%);
+    font-family: "Overpass", sans-serif;
+    font-weight: 400;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 15px;
+
+
+}
